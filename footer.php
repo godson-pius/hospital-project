@@ -8,7 +8,7 @@ echo '
         <div class="container">
             <div class="f-items default-padding">
                 <div class="row">
-                    <div class="col-lg-4 col-md-6 item">
+                    <div class="col-lg-6 col-md-6 item">
                         <div class="f-item about">
                             <img src="assets/img/logo-light.png" alt="Logo">
                             <p>
@@ -42,7 +42,7 @@ echo '
 
                     
 
-                    <div class="single-item col-lg-4 col-md-6 item">
+                    <div class="single-item col-lg-6 col-md-6 item">
                         <div class="f-item branches">
                             <div class="branches">
                                 <ul>
