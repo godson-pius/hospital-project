@@ -97,6 +97,10 @@ echo '
                         <li class="dropdown">
                             <a href="doctors.php" > Doctors</a>
                         </li>
+
+                        <li class="dropdown">
+                            <a href="./appointment.php" > Book Appointment</a>
+                        </li>
                         
                         <li>
                             <a href="contact.php">Contact Us</a>
