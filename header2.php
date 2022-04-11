@@ -92,11 +92,12 @@ echo '
                             <a href="./users/" >User Login</a>
                         </li>
                         <li class="dropdown">
-                            <a href="doctors.php" > Doctors</a>
-                        </li>
-                        <li class="dropdown">
                             <a href="./doctor/" >Doctor Login</a>
                         </li>
+                        <li class="dropdown">
+                            <a href="doctors.php" > Doctors</a>
+                        </li>
+                        
                         <li>
                             <a href="contact.php">Contact Us</a>
                         </li>
