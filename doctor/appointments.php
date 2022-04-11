@@ -1,4 +1,3 @@
-
 <?php
   require_once '../admin/config/db.php';
   blockUrlHackers('pages-login.php', $_SESSION['doctor']);
