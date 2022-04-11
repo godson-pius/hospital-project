@@ -22,7 +22,7 @@ echo '
                                         </div>
                                         <div class="info">
                                             <h5>Email:</h5>
-                                            <span>support@validtemplates.com</span>
+                                            <span>support@ehms.com.ng</span>
                                         </div>
                                     </li>
                                     <li>
@@ -31,7 +31,7 @@ echo '
                                         </div>
                                         <div class="info">
                                             <h5>Phone:</h5>
-                                            <span>+44-20-7328-4499</span>
+                                            <span>+234-80-7328-4499</span>
                                         </div>
                                     </li>
                                 </ul>
@@ -39,69 +39,16 @@ echo '
                         </div>
                     </div>
                     
-                    <div class="single-item col-lg-2 col-md-6 item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Department</h4>
-                            <ul>
-                                <li>
-                                    <a href="#">Medecine & Health</a>
-                                </li>
-                                <li>
-                                    <a href="#">Dental Care</a>
-                                </li>
-                                <li>
-                                    <a href="#">Eye Treatment</a>
-                                </li>
-                                <li>
-                                    <a href="#">Children Chare</a>
-                                </li>
-                                <li>
-                                    <a href="#">Traumatology</a>
-                                </li>
-                                <li>
-                                    <a href="#">X-ray</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
 
-                    <div class="single-item col-lg-2 col-md-6 item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Usefull Links</h4>
-                            <ul>
-                                <li>
-                                    <a href="#">Ambulance</a>
-                                </li>
-                                <li>
-                                    <a href="#">Emergency</a>
-                                </li>
-                                <li>
-                                    <a href="#">Blog</a>
-                                </li>
-                                <li>
-                                    <a href="#">Project</a>
-                                </li>
-                                <li>
-                                    <a href="#">About Us</a>
-                                </li>
-                                <li>
-                                    <a href="#">Contact</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
+                    
 
                     <div class="single-item col-lg-4 col-md-6 item">
                         <div class="f-item branches">
                             <div class="branches">
                                 <ul>
                                     <li>
-                                        <strong>USA Branches:</strong> 
-                                        <span>4992 Bryan Avenue, Prior Lake, Minnesota <br> Phone: 651-379-4698</span>
-                                    </li>
-                                    <li>
                                         <strong>Central Branches:</strong> 
-                                        <span>2001 Kia Magentis, Prior Lake, Minnesota <br> Phone: 651-379-4698</span>
+                                        <span>Enugu <br>
                                     </li>
                                 </ul>
                             </div>
