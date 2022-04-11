@@ -185,7 +185,7 @@
                         <li>
                             <a href="javascript: void(0);"><i class="ti-user"></i> <span> Users </span> <span class="menu-arrow"></span></a>
                             <ul class="nav-second-level" aria-expanded="false">
-                                <li><a href="doctors.php">All Users</a></li>
+                                <li><a href="./users">All Users</a></li>
                             </ul>
                         </li>
 
