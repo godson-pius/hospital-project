@@ -3,9 +3,14 @@
 session_start();
 
 define("HOST", "localhost");
-define("USER", "root");
-define("PASSWORD", "");
-define("DBNAME", "carenow");
+define("USER", "ehmscomn_ehms");
+define("PASSWORD", "100%wallyehms");
+define("DBNAME", "ehmscomn_ehms");
+
+// define("HOST", "localhost");
+// define("USER", "root");
+// define("PASSWORD", "");
+// define("DBNAME", "carenow");
 
 //$your_preferred_variable_name
 $link = mysqli_connect(HOST, USER, PASSWORD, DBNAME);
