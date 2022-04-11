@@ -184,7 +184,7 @@
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-group">
-                                            <select name="doctor">
+                                            <select name="p_doctor">
                                                 <option disabled selected value="1">Choose Doctor</option>
                                                 <?php
 

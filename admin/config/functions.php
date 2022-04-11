@@ -502,8 +502,8 @@ function bookAppointment($post) {
     $errors[] = "Date for appointment is required!";
   }
 
-  if (!empty($doctor)) {
-    $doctor = sanitize($doctor);
+  if (!empty($p_doctor)) {
+    $doctor = sanitize($p_doctor);
   } else {
     $errors[] = "Please choose a doctor!";
   }
