@@ -254,7 +254,7 @@
                             <h5>Unparalleled expertise</h5>
                         </li>
                     </ul>
-                    <a class="btn btn-md btn-gradient" href="appointment.html"><i class="fas fa-angle-right"></i> Make Appoinment</a>
+                    <a class="btn btn-md btn-gradient" href="appointment.php"><i class="fas fa-angle-right"></i> Make Appoinment</a>
                 </div>
 
             </div>
