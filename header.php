@@ -79,13 +79,13 @@ echo '
                             <a href="index.php">Home</a>
                         </li>
                         <li class="dropdown">
-                            <a href="departments.php" >Our Departments</a>
+                            <a href="./users/" >User Login</a>
                         </li>
                         <li class="dropdown">
-                            <a href="doctors.php" >Our Doctors</a>
+                            <a href="doctors.php" > Doctors</a>
                         </li>
                         <li class="dropdown">
-                            <a href="about-us.php" >About Us</a>
+                            <a href="./doctor/" >Doctor Login</a>
                         </li>
                         <li>
                             <a href="contact.php">Contact Us</a>
