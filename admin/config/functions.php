@@ -303,6 +303,19 @@ function getDoctors() {
   }
 }
 
+function getUsers() {
+  global $link;
+
+  $sql = "SELECT * FROM users";
+  $query = mysqli_query($link, $sql);
+
+  if (mysqli_num_rows($query) > 0) {
+      return $query;
+  } else {
+    return false;
+  }
+}
+
 function getTotalNum($table) {
     global $link;
 

@@ -1,7 +1,7 @@
 <?php
   require_once 'config/db.php';
 
-  $res = getDoctors();
+  $res = getUsers();
 
 ?>
 
@@ -17,7 +17,7 @@
 
                         <div class="row">
                             <div class="col-sm-12">
-                                <h4 class="header-title m-t-0 m-b-20">Doctors</h4>
+                                <h4 class="header-title m-t-0 m-b-20">Users</h4>
                             </div>
                         </div>
 
@@ -30,9 +30,8 @@
                                         <thead>
                                         <tr>
                                             <th>Name</th>
-                                            <th>Speciality</th>
-                                            <th>Email</th>
-                                            <th>Phone Number</th>
+                                            <th>Email Address</th>
+                                            <th>Date of Birth</th>
                                             <th>Date registered</th>
                                         </tr>
                                         </thead>
@@ -42,14 +41,13 @@
 
                                       <?php
                                         if (!empty($res)) {
-                                            foreach ($res as $doc) {
-                                              extract($doc); ?>
+                                            foreach ($res as $user) {
+                                              extract($user); ?>
 
                                               <tr>
                                                   <td><?= $fullname; ?></td>
-                                                  <td><?= $speciality; ?></td>
                                                   <td><?= $email; ?></td>
-                                                  <td><?= $phone; ?></td>
+                                                  <td><?= $dob; ?></td>
                                                   <td><?= date('d-M-Y', strtotime($created_at)); ?></td>
                                               </tr>
 
