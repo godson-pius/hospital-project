@@ -63,7 +63,7 @@ echo '
             <div class="container">
                 <div class="row align-center">
                     <div class="col-lg-6">
-                        <p>Copyright &copy;  2020. Designed by Wally</p>
+                        <p>Copyright &copy;  2020.</p>
                     </div>
                     <div class="col-lg-6 text-right social">
                         <ul>
