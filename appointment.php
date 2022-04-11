@@ -185,7 +185,7 @@
                                 <div class="col-md-6">
                                     <div class="form-group">
                                             <select name="p_doctor">
-                                                <option disabled selected value="1">Choose Doctor</option>
+                                                <option disabled selected>Choose Doctor</option>
                                                 <?php
 
                                                     $sql = "SELECT * FROM doctors";
