@@ -2,7 +2,7 @@
     require_once 'admin/config/db.php';
 
     if (!isset($_SESSION['user'])) {
-        header('Location: user/pages-login.php');
+        header('Location: users/pages-login.php');
     }
 
     if (isset($_POST['submit'])) {
