@@ -72,7 +72,7 @@
 
                                         <div class="form-group m-b-20">
                                             <div class="col-12">
-                                                <a href="pages-forget-password.html" class="text-muted pull-right font-14">Forgot your password?</a>
+                                                <!-- <a href="pages-forget-password.html" class="text-muted pull-right font-14">Forgot your password?</a> -->
                                                 <label for="password">Password</label>
                                                 <input class="form-control" type="password" required="" id="password" placeholder="Enter your password" name="password">
                                             </div>
